@@ -1,0 +1,11 @@
+{
+  "name": "design-token",
+  "version": "0.0.1",
+  "description": "koyasaeki's personal design token",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koyasaeki/design-token.git"
+  },
+  "license": "MIT",
+  "author": "koyasaeki"
+}
